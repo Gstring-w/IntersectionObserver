@@ -11,3 +11,6 @@ Implementation status:
 [Draft Spec](https://w3c.github.io/IntersectionObserver/)
 
 [Polyfill](./polyfill/)
+
+
+**判断元素是否在视图中**
